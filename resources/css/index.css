@@ -17,8 +17,6 @@ a {
   color: white;
 }
 
-
-
 h2 {
   font-family: Helvetica;
   font-size: 32px;
@@ -33,12 +31,12 @@ p {
   font-family: Helvetica;
   font-size: 14px;
 }
-.DNY {
+#divider {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: image(resources/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
 }
 .footer {
   font-family: Helvetica;
